@@ -23,7 +23,7 @@ TradeMentor is an innovative fintech application designed to revolutionize the l
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/TradeMentor.git
+git clone https://github.com/litvingil/TradeMentor.git
 cd TradeMentor
 ```
 
